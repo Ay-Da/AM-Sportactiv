@@ -2,10 +2,6 @@
 
 A&M Sportactiv is developped by Aymen Daboussi and inspired by the belief that the best sports products should be accessible to everyone.
 
-<h1> Link : </h1>
-
-<li> Online <a href="#"> A&M Sportactiv </a> live </li>
-
 <h1>Screenshots </h1>
 
 <h3> Home </h3>
